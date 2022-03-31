@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  background-image:url("https://source.unsplash.com/vZlTg_McCDo/1600x900");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.575);
+  padding: 2em;
+  border-radius: 30px;
+  width: 100%;
+  max-width: 420px;
+  margin: 1rem;
+}
